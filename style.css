@@ -1,0 +1,173 @@
+.main-color
+{
+    color: #e65f78;
+}
+.my-bg
+{
+    background-color: #e65f78;
+}
+.my-font
+{
+    font-family: mulish;
+}
+
+.my-input
+{
+    border: 1px solid rgba(0,0,0,.2);
+}
+body
+{
+    font-family: poppins;
+}
+#serv
+{
+    background-color: #f9f9f9;
+}
+.nav-link
+{
+    text-decoration: none;
+    font-family: poppins;
+    font-weight: 500;
+}
+.nav-item1, .nav-item2
+{
+    list-style-type: none;
+}
+.nav2 ul li a:hover 
+{
+    color: #e65f78
+}
+.red
+{
+    text-decoration: none;
+    color: #e65f78;
+    font-family: poppins;
+    font-weight: 500;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    display: block; 
+}
+
+ li:hover a
+{
+    color: #e65f78;
+}
+a:hover
+{
+    color: #e65f78;
+}
+.header-content h3
+{
+    font-family: poppins;
+    color: #fff;
+    font-size: 35px;
+    
+    font-weight: 500;
+}
+.header-content p
+{
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+}
+.navbar-brand img
+{
+    width:50px;
+    
+}
+.header-content
+{
+    width: 20%;
+}
+
+header
+{
+    background-image: url(Exam\ Imgs/1.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.layer
+{
+background-color: rgba(0, 0, 0, 0.6);
+}
+.brdr 
+{
+    position: absolute;
+    border: 10px solid #555;
+    border-radius: 5px;
+}
+
+.img-item 
+{
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+}
+#serv 
+{
+    background-color: #f9f9f9;
+}
+#num
+{
+    background-color: black;
+}
+#num h3
+{
+    font-size: 40px;
+    font-weight: 600;
+}
+#num .parg
+{
+    font-family: poppins;
+}
+.big
+{
+    position: relative;
+    overflow: hidden;
+}
+.big img
+{
+    overflow: hidden;
+    transition: transform 1s;
+}
+.caption1
+{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0);
+    opacity: 0;
+    transition: opacity 1s ;
+}
+
+.big:hover img
+{
+transform: scale(1.2,1.2);
+}
+.my-container
+{
+    width: 90%;
+    margin: auto;
+}
+.my-link
+{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.4;
+}
+.special-a , .my-span
+{
+    text-transform: uppercase;
+    font-family: poppins;
+    font-size: 12px;
+    color: #767676;
+    font-style: italic;
+}
+.special-a:hover
+{
+    color: #e65f78;
+}
